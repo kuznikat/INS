@@ -1,18 +1,13 @@
 # INS
 The course aims to introduce all aspects of selecting, deploying and maintaining information systems.
 
-Emphasis is placed on the ability to orientate oneself in the problem, communication at different levels (team, customer, management) and in different forms (discussion, analysis, presentation), working in a team and proposing an appropriate solution based on the evaluation of customer needs.  
+Team project : Lawyers
 
-The following topics are discussed in the course:
+We are ProgSit s.r.o. (supplier)
 
-Information, storage and processing with regard to the type of information. 
+ADVOKÁT s.r.o.(customer) plans to implement a modern digital solution that will enable more efficient management of work processes, improve communication with clients and minimize the administrative burden. 
 
-Information systems technologies and their use depending on the area of deployment. 
+The aim is to increase the competitiveness and stability of the office without the need for further expansion of the branch network.
 
-Business processes and deployment of information systems in the form of a project. 
-
-Implementation and implementation methodology, implementation and post-implementation phases of information system deployment. 
-
-Legal issues of information system implementation and specifics related to implementation in public administration. 
 
 
